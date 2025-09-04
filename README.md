@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Ryan Andiya Saputra.
 
-
-
 ## 🚀 Tech Stack
 ### Languages & Frameworks
 <p>
@@ -38,10 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original.svg" width="40" height="40"/>
 </p>
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ryan-andiya-301ab3372)  
-
-
 ### Games
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryanajaaa/Ryanajaaa/output/pacman-contribution-graph-dark.svg">
@@ -53,5 +47,7 @@
 
 <img src="https://raw.githubusercontent.com/Ryanajaaa/Ryanajaaa/output/snake.svg" alt="Snake animation" />
 
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ryan-andiya-301ab3372)  
 
 
