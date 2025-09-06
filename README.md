@@ -48,7 +48,6 @@
 </picture>
 
 ###
-
 <img src="https://raw.githubusercontent.com/Ryanajaaa/Ryanajaaa/output/snake.svg" alt="Snake animation" />
 
 
