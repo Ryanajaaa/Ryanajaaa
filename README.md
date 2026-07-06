@@ -443,3 +443,192 @@ Learning cybersecurity fundamentals through Capture The Flag challenges, Linux a
 *"Great software is built through continuous learning, clean architecture, secure development, and the courage to solve real-world problems."*
 
 </p>
+---
+
+# EXPERIENCE
+
+## 💼 Professional Experience
+
+### **IT Consultant (VMware Technical Support)**
+**Company:** PT Multipolar Technology Tbk.  
+**Duration:** Internship • 2025
+
+Worked as a Technical Support Engineer specializing in VMware virtualization solutions, assisting enterprise customers in troubleshooting infrastructure issues using a professional ticketing system.
+
+### Responsibilities
+
+- Provided technical support for VMware vSphere environments.
+- Investigated ESXi and Virtual Machine related issues.
+- Managed and documented support cases through Ticketing Portal.
+- Assisted customers in troubleshooting virtualization infrastructure.
+- Performed log analysis for enterprise environments.
+- Collaborated with senior engineers to resolve production issues.
+- Maintained detailed technical documentation.
+- Improved response time by following VMware troubleshooting methodologies.
+
+### Technologies
+
+`VMware vSphere`
+`ESXi`
+`Linux`
+`Windows Server`
+`Ticketing System`
+`Virtualization`
+`Networking`
+`Troubleshooting`
+
+---
+
+## 🎓 Education
+
+### SMK Telkom Jakarta
+
+**Software Engineering (Rekayasa Perangkat Lunak)**
+
+2023 — 2026
+
+Relevant Coursework
+
+- Software Engineering
+- Database Systems
+- Object-Oriented Programming
+- Web Development
+- Mobile Development
+- Computer Networks
+- System Administration
+- Software Testing
+
+---
+
+## 📈 Career Journey
+
+| Year | Milestone |
+|------|-----------|
+| 2023 | Started Software Engineering at SMK Telkom Jakarta |
+| 2024 | Learned Backend Development with Go |
+| 2025 | Internship as VMware Technical Support |
+| 2025 | Built REST APIs using Clean Architecture |
+| 2026 | Focused on AI Engineering & Machine Learning |
+| Future | AI Engineer • Backend Engineer • Cloud Engineer |
+
+---
+
+# ACHIEVEMENTS
+
+<p align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| Backend Development | Built RESTful APIs using Go, Gin, PostgreSQL, JWT |
+| VMware Experience | Supported enterprise VMware infrastructure |
+| AI Learning | Exploring Machine Learning & Artificial Intelligence |
+| Open Source | Sharing programming setup guides on GitHub |
+| Continuous Learning | Learning new programming languages and technologies |
+
+</p>
+
+---
+
+# CERTIFICATIONS
+
+## ☁ Cloud & Infrastructure
+
+<p align="center">
+
+![VMware](https://img.shields.io/badge/VMware-Learning-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-Experienced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-Experienced-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-8A2BE2?style=for-the-badge)
+
+![LLM](https://img.shields.io/badge/LLM-Learning-6D28D9?style=for-the-badge)
+
+</p>
+
+---
+
+## 💻 Software Engineering
+
+<p align="center">
+
+![Go](https://img.shields.io/badge/Golang-Experienced-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Experienced-336791?style=for-the-badge&logo=postgresql)
+
+![Laravel](https://img.shields.io/badge/Laravel-Experienced-FF2D20?style=for-the-badge&logo=laravel)
+
+</p>
+
+---
+
+## 🎯 Planned Certifications
+
+| Provider | Target Certification |
+|-----------|---------------------|
+| VMware | VCP-DCV |
+| AWS | Cloud Practitioner |
+| Cisco | CCNA |
+| Oracle | Oracle Database Foundations |
+| Google | Associate Cloud Engineer |
+| Microsoft | Azure Fundamentals (AZ-900) |
+
+---
+
+# CODING PROFILES
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Coming%20Soon-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Coming%20Soon-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Coming%20Soon-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coming%20Soon-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# TECHNICAL STRENGTHS
+
+| Category | Skills |
+|-----------|--------|
+| Programming | Go, Python, Java, PHP, Rust, C, C++, Kotlin |
+| Backend | Gin, Echo, REST API, JWT |
+| Database | PostgreSQL, MySQL |
+| Infrastructure | VMware vSphere, ESXi, Linux |
+| DevOps | Docker, Jenkins, Git |
+| AI | Python, Machine Learning, LLM |
+| Security | JWT, Authentication, Secure Coding |
+| Documentation | Technical Writing, GitHub Documentation |
+
+---
+
+<p align="center">
+
+## Professional Goals
+
+> Building scalable software, intelligent systems, and cloud-native solutions while continuously improving as an AI Engineer and Software Engineer.
+
+</p>
