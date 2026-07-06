@@ -632,3 +632,186 @@ Relevant Coursework
 > Building scalable software, intelligent systems, and cloud-native solutions while continuously improving as an AI Engineer and Software Engineer.
 
 </p>
+---
+
+# GITHUB ANALYTICS
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ryanajaaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanajaaa&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanajaaa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# GITHUB TROPHIES
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ryanajaaa&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# CONTRIBUTION ACTIVITY
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryanajaaa&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</p>
+
+---
+
+# CONTRIBUTION SNAKE
+
+<p align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Ryanajaaa/Ryanajaaa/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Ryanajaaa/Ryanajaaa/output/github-contribution-grid-snake.svg">
+
+<img alt="github contribution grid snake animation"
+src="https://raw.githubusercontent.com/Ryanajaaa/Ryanajaaa/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</p>
+
+---
+
+# CURRENT FOCUS
+
+```yaml
+name: Ryan Andiya Saputra
+
+role:
+  - AI Engineer
+  - Backend Developer
+  - IT Consultant
+
+currently_learning:
+  - Machine Learning
+  - Deep Learning
+  - Large Language Models (LLMs)
+  - Rust Programming
+  - Kubernetes
+  - Cloud Computing
+  - Cyber Security
+  - AI Engineering
+
+currently_building:
+  - AI Applications
+  - Backend REST APIs
+  - Open Source Projects
+  - GitHub Documentation
+  - Personal Portfolio
+  - Infrastructure Labs
+
+currently_exploring:
+  - MLOps
+  - Docker
+  - VMware
+  - Linux Administration
+  - Kubernetes
+  - Cloud Native Technologies
+  - Prompt Engineering
+
+open_to:
+  - AI Engineer
+  - Backend Engineer
+  - Software Engineer
+  - Cloud Engineer
+  - Infrastructure Engineer
+  - Open Source Collaboration
+  - Internship
+  - Freelance Projects
+
+career_goal:
+  Become an AI Engineer capable of building scalable,
+  intelligent, and production-ready software that creates
+  real-world impact.
+```
+
+---
+
+# CONNECT WITH ME
+
+<p align="center">
+
+<a href="mailto:your@email.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://linkedin.com/in/ryan-andiya-301ab3372">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/Ryanajaaa">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://your-portfolio.com">
+
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# SUPPORT MY WORK
+
+<p align="center">
+
+If you like my projects and open-source contributions, don't forget to ⭐ my repositories and follow my GitHub journey.
+
+</p>
+
+---
+
+# FUN FACT
+
+<p align="center">
+
+> *"Every expert was once a beginner. Every great engineer keeps learning."*
+
+</p>
+
+---
+
+# QUOTE
+
+<p align="center">
+
+### **"Building intelligent software with clean architecture, scalable systems, and a passion for continuous learning."**
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:2563EB"/>
+
+</p>
