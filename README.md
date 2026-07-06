@@ -189,3 +189,257 @@ I believe software engineering is not just writing code, but creating maintainab
 ### *"Building intelligent software with clean architecture, scalable infrastructure, and continuous innovation."*
 
 </p>
+---
+
+# AI / ML EXPERTISE
+
+<p align="center">
+
+> *Passionate about building intelligent applications by combining Software Engineering, Artificial Intelligence, and Cloud Infrastructure.*
+
+</p>
+
+| Domain | Proficiency | Details |
+|:--------|:-----------:|---------|
+| Machine Learning | ⭐⭐⭐☆☆ | Building foundational ML models, data preprocessing, feature engineering, evaluation metrics |
+| Artificial Intelligence | ⭐⭐⭐⭐☆ | AI-assisted applications, LLM integration, prompt engineering, AI workflows |
+| Backend Engineering | ⭐⭐⭐⭐⭐ | RESTful API, Clean Architecture, Authentication, Middleware, Microservice fundamentals |
+| Data Engineering | ⭐⭐⭐☆☆ | SQL, PostgreSQL, MySQL, data modeling, query optimization |
+| Cloud Infrastructure | ⭐⭐⭐⭐☆ | VMware vSphere, Linux administration, virtualization, infrastructure management |
+| DevOps | ⭐⭐⭐⭐☆ | Docker, GitHub Actions, Jenkins, CI/CD fundamentals |
+| Security | ⭐⭐⭐☆☆ | JWT Authentication, RBAC, API Security, Secure Coding Practices |
+| Software Engineering | ⭐⭐⭐⭐⭐ | SOLID Principles, Clean Code, Design Patterns, Scalable System Design |
+
+---
+
+# FEATURED PROJECTS
+
+<details>
+<summary>
+
+# 🚀 AI Learning & Machine Learning Projects
+
+</summary>
+
+Building practical Artificial Intelligence and Machine Learning applications while learning modern AI technologies.
+
+| Category | Details |
+|-----------|---------|
+| **Stack** | Python • Jupyter Notebook • Scikit-Learn • Pandas • NumPy |
+| **Scale** | Personal Learning Projects |
+| **Performance** | Optimized data preprocessing and model evaluation |
+| **Security** | Secure local development |
+| **Impact** | Improving AI engineering knowledge |
+| **Repository** | https://github.com/Ryanajaaa |
+
+### Highlights
+
+- Machine Learning experiments
+- Data preprocessing
+- Classification & Regression
+- Model evaluation
+- AI workflow exploration
+- Prompt Engineering
+- LLM integration experiments
+
+</details>
+
+---
+
+<details>
+<summary>
+
+# 🐹 Go Backend REST API
+
+</summary>
+
+Enterprise-style backend APIs using Clean Architecture and Repository Pattern.
+
+| Category | Details |
+|-----------|---------|
+| **Stack** | Go • Gin • Echo • PostgreSQL • Docker • JWT |
+| **Scale** | Medium Scale Backend |
+| **Performance** | High-performance REST API |
+| **Security** | JWT Authentication • Middleware • Validation |
+| **Impact** | Scalable backend architecture |
+| **Repository** | https://github.com/Ryanajaaa |
+
+### Features
+
+- Clean Architecture
+
+- Repository Pattern
+
+- JWT Authentication
+
+- Role Based Access
+
+- RESTful API
+
+- Middleware
+
+- Error Handling
+
+- Validation
+
+- Pagination
+
+- Search
+
+- PostgreSQL Integration
+
+- Docker Ready
+
+</details>
+
+---
+
+<details>
+<summary>
+
+# ☁ VMware Infrastructure Documentation
+
+</summary>
+
+Documentation and troubleshooting knowledge collected while working as an IT Consultant supporting VMware environments.
+
+| Category | Details |
+|-----------|---------|
+| **Stack** | VMware vSphere • ESXi • Linux |
+| **Scale** | Enterprise Infrastructure |
+| **Performance** | High Availability Environment |
+| **Security** | Enterprise Best Practices |
+| **Impact** | Faster troubleshooting and documentation |
+| **Repository** | https://github.com/Ryanajaaa |
+
+### Topics
+
+- VMware vSphere
+
+- ESXi
+
+- Virtual Machine Management
+
+- Troubleshooting
+
+- Storage
+
+- Networking
+
+- Snapshot
+
+- Datastore
+
+- VM Migration
+
+- Infrastructure Monitoring
+
+</details>
+
+---
+
+<details>
+<summary>
+
+# 📚 Programming Language Setup Guides
+
+</summary>
+
+A collection of beginner-friendly repositories explaining how to install, configure, and use programming languages in Visual Studio Code.
+
+| Category | Details |
+|-----------|---------|
+| **Stack** | Markdown • VS Code • GitHub |
+| **Scale** | Open Source Documentation |
+| **Performance** | Easy-to-follow installation guides |
+| **Security** | Official toolchains |
+| **Impact** | Helping beginners start programming quickly |
+| **Repository** | https://github.com/Ryanajaaa |
+
+### Available Guides
+
+- Go
+
+- Python
+
+- Rust
+
+- Java
+
+- Kotlin
+
+- Lua
+
+- R
+
+- C
+
+- C++
+
+- PHP
+
+- JavaScript
+
+</details>
+
+---
+
+<details>
+<summary>
+
+# 🔐 Cyber Security & CTF Journey
+
+</summary>
+
+Learning cybersecurity fundamentals through Capture The Flag challenges, Linux administration, networking, and secure software engineering.
+
+| Category | Details |
+|-----------|---------|
+| **Stack** | Kali Linux • Linux • Networking |
+| **Scale** | Learning Platform |
+| **Performance** | Practical Hands-on Labs |
+| **Security** | Ethical Hacking Principles |
+| **Impact** | Strengthening secure software development |
+| **Repository** | https://github.com/Ryanajaaa |
+
+### Focus Areas
+
+- Linux
+
+- Networking
+
+- Web Security
+
+- Cryptography
+
+- Reverse Engineering
+
+- Digital Forensics
+
+- CTF Challenges
+
+- Secure Coding
+
+</details>
+
+---
+
+# PROJECT SUMMARY
+
+| Project | Domain | Status |
+|---------|--------|--------|
+| AI Learning Projects | Artificial Intelligence | 🟣 Active |
+| Go REST API | Backend Engineering | 🟣 Active |
+| VMware Documentation | Infrastructure | 🟣 Active |
+| Programming Guides | Open Source | 🟣 Active |
+| Cyber Security Journey | Security | 🟣 Learning |
+
+---
+
+<p align="center">
+
+## Engineering Philosophy
+
+*"Great software is built through continuous learning, clean architecture, secure development, and the courage to solve real-world problems."*
+
+</p>
