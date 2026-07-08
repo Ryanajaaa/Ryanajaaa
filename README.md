@@ -148,22 +148,6 @@ I believe software engineering is not just writing code, but creating maintainab
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,jenkins,postman"/>
 
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original.svg" width="60"/>
-
 </p>
 
 ---
