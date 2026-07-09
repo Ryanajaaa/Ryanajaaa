@@ -429,16 +429,6 @@ Learning cybersecurity fundamentals through Capture The Flag challenges, Linux a
 </p>
 ---
 
-# EXPERIENCE
-
-## 💼 Professional Experience
-
-### **IT Consultant (VMware Technical Support)**
-**Company:** PT Multipolar Technology Tbk.  
-**Duration:** Internship • 2025
-
-Worked as a Technical Support Engineer specializing in VMware virtualization solutions, assisting enterprise customers in troubleshooting infrastructure issues using a professional ticketing system.
-
 ### Responsibilities
 
 - Provided technical support for VMware vSphere environments.
