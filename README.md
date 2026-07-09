@@ -624,17 +624,6 @@ Relevant Coursework
 
 </p>
 
----
-
-# GITHUB TROPHIES
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ryanajaaa&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # CONTRIBUTION ACTIVITY
 
