@@ -371,20 +371,6 @@ A collection of beginner-friendly repositories explaining how to install, config
 <details>
 <summary>
 
-# 🔐 Cyber Security & CTF Journey
-
-</summary>
-
-Learning cybersecurity fundamentals through Capture The Flag challenges, Linux administration, networking, and secure software engineering.
-
-| Category | Details |
-|-----------|---------|
-| **Stack** | Kali Linux • Linux • Networking |
-| **Scale** | Learning Platform |
-| **Performance** | Practical Hands-on Labs |
-| **Security** | Ethical Hacking Principles |
-| **Impact** | Strengthening secure software development |
-| **Repository** | https://github.com/Ryanajaaa |
 
 ### Focus Areas
 
@@ -406,28 +392,6 @@ Learning cybersecurity fundamentals through Capture The Flag challenges, Linux a
 
 </details>
 
----
-
-# PROJECT SUMMARY
-
-| Project | Domain | Status |
-|---------|--------|--------|
-| AI Learning Projects | Artificial Intelligence | 🟣 Active |
-| Go REST API | Backend Engineering | 🟣 Active |
-| VMware Documentation | Infrastructure | 🟣 Active |
-| Programming Guides | Open Source | 🟣 Active |
-| Cyber Security Journey | Security | 🟣 Learning |
-
----
-
-<p align="center">
-
-## Engineering Philosophy
-
-*"Great software is built through continuous learning, clean architecture, secure development, and the courage to solve real-world problems."*
-
-</p>
----
 
 ### Responsibilities
 
@@ -450,42 +414,6 @@ Learning cybersecurity fundamentals through Capture The Flag challenges, Linux a
 `Virtualization`
 `Networking`
 `Troubleshooting`
-
----
-
-## 🎓 Education
-
-### SMK Telkom Jakarta
-
-**Software Engineering (Rekayasa Perangkat Lunak)**
-
-2023 — 2026
-
-Relevant Coursework
-
-- Software Engineering
-- Database Systems
-- Object-Oriented Programming
-- Web Development
-- Mobile Development
-- Computer Networks
-- System Administration
-- Software Testing
-
----
-
-## 📈 Career Journey
-
-| Year | Milestone |
-|------|-----------|
-| 2023 | Started Software Engineering at SMK Telkom Jakarta |
-| 2024 | Learned Backend Development with Go |
-| 2025 | Internship as VMware Technical Support |
-| 2025 | Built REST APIs using Clean Architecture |
-| 2026 | Focused on AI Engineering & Machine Learning |
-| Future | AI Engineer • Backend Engineer • Cloud Engineer |
-
----
 
 # ACHIEVEMENTS
 
@@ -545,42 +473,6 @@ Relevant Coursework
 
 </p>
 
----
-
-## 🎯 Planned Certifications
-
-| Provider | Target Certification |
-|-----------|---------------------|
-| VMware | VCP-DCV |
-| AWS | Cloud Practitioner |
-| Cisco | CCNA |
-| Oracle | Oracle Database Foundations |
-| Google | Associate Cloud Engineer |
-| Microsoft | Azure Fundamentals (AZ-900) |
-
----
-
-# CODING PROFILES
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Coming%20Soon-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Coming%20Soon-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Coming%20Soon-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coming%20Soon-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</p>
 
 # CONNECT WITH ME
 
