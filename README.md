@@ -745,47 +745,9 @@ career_goal:
 </a>
 
 <a href="https://your-portfolio.com">
-
 <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
 </a>
-
 </p>
-
----
-
-# SUPPORT MY WORK
-
 <p align="center">
-
-If you like my projects and open-source contributions, don't forget to ⭐ my repositories and follow my GitHub journey.
-
-</p>
-
----
-
-# FUN FACT
-
-<p align="center">
-
-> *"Every expert was once a beginner. Every great engineer keeps learning."*
-
-</p>
-
----
-
-# QUOTE
-
-<p align="center">
-
-### **"Building intelligent software with clean architecture, scalable systems, and a passion for continuous learning."**
-
-</p>
-
----
-
-<p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:2563EB"/>
-
 </p>
