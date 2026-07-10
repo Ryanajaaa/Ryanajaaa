@@ -58,7 +58,7 @@
 
 <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=Ryanajaaa&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-I'm **Ryan Andiya Saputra**, an **AI Engineer**, **Backend Developer**, and **IT Consultant** from **Indonesia** with a strong passion for building scalable software, cloud infrastructure, and intelligent systems.
+I'm **Ryan Andiya Saputra**, an **AI Engineer**, **Backend Developer**, and **IT Support** with a strong passion for building scalable software, cloud infrastructure, and intelligent systems.
 
 I enjoy transforming ideas into reliable software products by combining **Software Engineering**, **Artificial Intelligence**, and **Cloud Technologies**.
 
