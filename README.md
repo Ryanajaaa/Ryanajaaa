@@ -116,7 +116,7 @@ I believe software engineering is not just writing code, but creating maintainab
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=go,python,java,cpp,c,php,javascript,rust,kotlin,lua,r"/>
+<img src="https://skillicons.dev/icons?i=go,python,java,cpp,c,php,javascript,rust,kotlin,lua,r,cs"/>
 
 </p>
 
