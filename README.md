@@ -37,5 +37,5 @@ backend development, and software engineering skills.
 
 ## Contact
 
-- GitHub: [your-github]
+- GitHub: [https://github.com/Ryanajaaa]
 - LinkedIn: [https://www.linkedin.com/in/ryan-andiya-saputra-301ab3372/]
