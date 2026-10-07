@@ -18,13 +18,10 @@ backend development, and software engineering skills.
 - C++
 - Python
 - Java
-- JavaScript
-- PHP
 - Go
 
 ### Web Development
-- HTML
-- CSS
+- PHP
 - JavaScript
 - React
 - Next.js
