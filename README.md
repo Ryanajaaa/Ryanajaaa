@@ -37,4 +37,4 @@ backend development, and software engineering skills.
 - GitHub: [https://github.com/Ryanajaaa]
 - LinkedIn: [https://www.linkedin.com/in/ryan-andiya-saputra-301ab3372/]
 - GitLab: [https://gitlab.com/Ryanajaaa]
-- My Portofolio [https://portofolio-ryan-one.vercel.app/]
+- My Portfolio: [https://portofolio-ryan-one.vercel.app/]
